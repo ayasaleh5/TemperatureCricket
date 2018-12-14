@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TemperatureCricket</string>
+    <string name="description"></string>
+
+    <string name="calculate_temprature">Calculate temprature</string>
+    <string name="did_you_know">Did you know you can determine the temprature out side by counting the number of chrips the cricket makes? just count the number of crips one makes in 25 seconds and place that number in the box below: </string>
+    <string name="numbres_in_seconds">number chrips in 25 seconds</string>
+</resources>
